@@ -1,6 +1,4 @@
-﻿using System;
-
-public class Part1
+﻿public class Part1
 {
 
     public class GeoCoordinates
